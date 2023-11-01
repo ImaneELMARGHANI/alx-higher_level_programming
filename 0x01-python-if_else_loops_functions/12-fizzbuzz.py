@@ -9,5 +9,5 @@ def fizzbuzz():
         elif i % 3 == 0:
             print('Fizz', end=' ')
         else:
-            
+
             print(f'{i}', end=' ')
